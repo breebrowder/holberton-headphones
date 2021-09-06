@@ -295,7 +295,7 @@ body {
     height: 30vh;
 }
 
-.footer-container {
+.footer-header {
     display: flex;
     align-items: center;
     justify-content: space-between;
