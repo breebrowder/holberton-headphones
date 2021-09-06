@@ -1,5 +1,5 @@
 /* Summary
-    1. Globals
+    1. ADD HERE LATER
 */
 
 /*** Globals ***/
@@ -142,10 +142,10 @@ body {
 
 .section-paragraph {
     color: var(--color-white);
-    text-align: center;
-    width: 600px;
     padding-top: 90px;
     padding-left: 165px;
+    text-align: center;
+    width: 600px;
 }
 
 /* BUTTON =========================== */
@@ -164,11 +164,11 @@ body {
 }
 
 .action-button:hover {
-    opacity: 0.9
+    opacity: 1.0;
 }
 
 .action-button:active {
-    opacity: 0.9;
+    opacity: 1.0;
 }
 
 @media (max-width: 480px) {
@@ -180,12 +180,12 @@ body {
 /* WHAT WE DO ============================== */
 
 .section-what {
+    top: 0px;
+    margin: 300px;
     position: absolute;
     width: 1400px;
     height: 800px;
     left: 0px;
-    top: 0px;
-    margin: 300px;
 }
 
 .section-what .container .section-main .row .column {
