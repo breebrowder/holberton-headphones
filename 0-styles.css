@@ -1,5 +1,5 @@
 /* Summary
-    1. Globals
+    1. ADD HERE LATER
 */
 
 /*** Globals ***/
@@ -148,11 +148,11 @@ body {
 }
 
 .action-button:hover {
-    opacity: 0.9
+    opacity: 1.0;
 }
 
 .action-button:active {
-    opacity: 0.9;
+    opacity: 1.0;
 }
 
 @media (max-width: 480px) {
@@ -163,8 +163,8 @@ body {
 
 .section-paragraph {
     color: var(--color-white);
-    text-align: center;
-    width: 600px;
     padding-top: 90px;
     padding-left: 165px;
+    text-align: center;
+    width: 600px;
 }
