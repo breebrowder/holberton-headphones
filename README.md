@@ -24,7 +24,7 @@ Now, your turn!
 
 Here is the final result on mobile, desktop, and tablet versions:
 
-![alt text](https://github.com/breezybrow/holberton-headphones/blob/main/images/desktop_mobile_tablet.jpg)
+![alt text](https://github.com/breezybrow/holberton-headphones/blob/main/images/all-three_versions.jpg)
 
 #### Designed by Nicolas Philippot, UI/UX designer.
 
