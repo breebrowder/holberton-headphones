@@ -1,7 +1,5 @@
 # Holberton School Curriculum: 0x04 Implement a design from scratch
 
-![Google](https://ishadeed.com/assets/pixel-perfection/developer.jpg)
-
 [Figma](https://www.figma.com/) will be your friend!
 
 In this project, you will implement from scratch, without any library, a web page. You will use all HTML/CSS/Accessibility/Responsive design knowledges that you learned previously.
@@ -24,9 +22,10 @@ Now, your turn!
 
 Here is the final result on mobile, desktop, and tablet versions:
 
-![alt text](https://github.com/breezybrow/holberton-headphones/blob/main/images/all-three_versions.jpg)
+![alt text](https://github.com/breebrowder/holberton-headphones/blob/main/images/all-three_verisons.jpg)
 
 #### Designed by Nicolas Philippot, UI/UX designer.
+[View prototype](https://www.figma.com/file/7lpx16p1cLFAThnRqQqN5S/Holberton-School---Headphone-company-(Copy)?node-id=0%3A1)
 
 ## Requirements
 
@@ -125,10 +124,17 @@ GitHub repository: holberton-headphones
 File: 4-index.html, 4-styles.css
 ````
 
-### Contributors
+## About the Developer  💬
 
-1. Bree Browder - 2372@holbertonschool.com
+### Bree Browder
 
-```
-Project Due Date: September 3, 2021
-```
+Bree is known for her creativity, organization, and self awareness. Advances in technology have played an integral part in her life. As an empathy-driven problem solver, Bree wants to be at the forefront of design for products, and to continuously design with others in mind, especially those who tend to be marginalized or forgotten.
+
+### Follow Me
+
+- 📁 [LinkedIn](https://www.linkedin.com/in/breebrowder/)
+- ✍️ [Medium](https://medium.com/@breebrowder)
+- 🖥️ [Portfolio Website](https://breebrowder.github.io)
+
+### Email Me
+📩: browder.bree@gmail.com
