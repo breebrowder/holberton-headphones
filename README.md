@@ -1,5 +1,9 @@
 # Holberton School Curriculum: 0x04 Implement a design from scratch
 
+## Project
+
+1. [Implement a design from scratch](https://intranet.hbtn.io/projects/1685)
+
 [Figma](https://www.figma.com/) will be your friend!
 
 In this project, you will implement from scratch, without any library, a web page. You will use all HTML/CSS/Accessibility/Responsive design knowledges that you learned previously.
